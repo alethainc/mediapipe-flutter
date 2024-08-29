@@ -1,3 +1,11 @@
+## [0.0.12]
+### Changed
+- Updated `pubspec.yaml` file.
+
+## [0.0.11]
+### Changed
+- Updated `publish.yml` file.
+
 ## [0.0.10]
 ### Changed
 - Updated `publish.yml` file.
