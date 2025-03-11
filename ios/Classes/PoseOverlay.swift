@@ -86,8 +86,8 @@ class OverlayView: UIView {
 
   override func draw(_ rect: CGRect) {
     for poseOverlay in poseOverlays {
-      // drawLines(poseOverlay.lines)
-     drawDots(poseOverlay.dots)
+      drawLines(poseOverlay.lines)
+    //  drawDots(poseOverlay.dots)
     }
   }
 
