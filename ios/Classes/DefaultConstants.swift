@@ -20,7 +20,7 @@ import MediaPipeTasksVision
 struct DefaultConstants {
 
   static let lineWidth: CGFloat = 2
-  static let pointRadius: CGFloat = 2
+  static let pointRadius: CGFloat = 4
   static let pointColor = UIColor.yellow
   static let pointFillColor = UIColor.red
 
